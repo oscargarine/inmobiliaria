@@ -45,8 +45,38 @@ const propiedades_venta = [
     costo: 1300000,
     smoke: false,
     pets: true
-  }
+  },
   
+  {
+    nombre: 'Apartamento Central Park',
+    src: 'https://static01.nyt.com/images/2019/05/12/realestate/10views1/merlin_154302579_b035460a-251b-4349-a143-83dbd5474176-superJumbo.jpg?quality=75&auto=webp',
+    descripcion: 'Lujoso apartamento con vistas al Central Park.',
+    ubicacion: 'Nueva York, Estados Unidos',
+    habitaciones: 3,
+    costo: 3500000,
+    smoke: false,
+    pets: true,
+  },
+  {
+    nombre: 'Casa de Playa Malibu',
+    src: 'https://www.omnihomeideas.com/wp-content/webp-express/webp-images/uploads/2024/02/Charlie-Sheens-House-in-Malibu.jpg.webp',
+    descripcion: 'Casa frente al mar con acceso privado a la playa.',
+    ubicacion: 'Malibu, Estados Unidos',
+    habitaciones: 4,
+    costo: 5000000,
+    smoke: false,
+    pets: false,
+  },
+  {
+    nombre: 'Piso Moderno en Madrid',
+    src: 'https://www.hola.com/horizon/square/e29a8fa6f174-piso-lujo-madrid-1t-t.jpg?im=Resize=(960),type=downsize',
+    descripcion: 'Apartamento moderno en el corazón de Madrid.',
+    ubicacion: 'Madrid, España',
+    habitaciones: 2,
+    costo: 1200000,
+    smoke: false,
+    pets: true,
+  }
 
   ]
 
@@ -97,7 +127,37 @@ const propiedades_venta = [
       costo: 500000,
       smoke: false,
       pets: true
-    }
+    },
+      {
+        nombre: 'Apartamento en Londres',
+        src: 'https://absolutelymagazines.com/wp-content/uploads/2023/09/Belvedere-jpg.webp',
+        descripcion: 'Apartamento elegante en el barrio de Chelsea.',
+        ubicacion: 'Londres, Reino Unido',
+        habitaciones: 2,
+        costo: 300000,
+        smoke: true,
+        pets: true,
+      },
+      {
+        nombre: 'Casa en Sídney',
+        src: 'https://media.vrbo.com/lodging/69000000/68350000/68348700/68348625/f53c23d3.jpg?impolicy=resizecrop&rw=1200&ra=fit',
+        descripcion: 'Casa espaciosa con jardín y piscina.',
+        ubicacion: 'Sídney, Australia',
+        habitaciones: 4,
+        costo: 280000,
+        smoke: false,
+        pets: true,
+      },
+      {
+        nombre: 'Villa en Ciudad del Cabo',
+        src: 'https://pic.le-cdn.com/thumbs/1024x768/08/1/properties/Property-19d6896a4bb98abf03efcb82cc0fe195-129971992.jpg',
+        descripcion: 'Villa con vistas a la Montaña de la Mesa.',
+        ubicacion: 'Ciudad del Cabo, Sudáfrica',
+        habitaciones: 5,
+        costo: 450000,
+        smoke: false,
+        pets: true,
+      },
 
     ]
 
